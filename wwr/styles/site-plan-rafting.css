@@ -9,27 +9,21 @@ body {
 
 
 :root {
-  --primary-color: #XXXXXX;
-  --secondary-color: #XXXXXX;
-  --accent1-color: #XXXXXX;
-  --accent2-color: #XXXXXX;
+  --primary-color: #396e94;
+  --secondary-color: #e7c24f;
+  --accent1-color: #a42212;
+  --accent2-color: #white;
 
-  --heading-font: '______', serif;
+  --heading-font: ' ______', serif;
   --paragraph-font: '______', serif;
 
-  --nav-background-color: #XXXXXX;
-  --nav-link-color: #XXXXXX;
-  --nav-hover-link-color: #XXXXXX;
-  --nav-hover-background-color: #XXXXXX;
+  --nav-background-color: #d4ac0d;
+  --nav-link-color: #396e94;
+  --nav-hover-link-color: #white;
+  --nav-hover-background-color: #396e94;
 }
 
         
-body {
-  f______: var(--paragraph-font);
-  m______: ______;
-  p______: ______;
-}
-
         
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font);
